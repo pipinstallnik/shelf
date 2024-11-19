@@ -1,6 +1,10 @@
-#This is shelf.
-A shared library for you and your friends.
+# Section Heading
 
-:sparkle: Search books and save them to your collection
-:sparkle: Search books and save them to your collection
+Some body text of this section.
 
+<a name="my-custom-anchor-point"></a>
+Some text I want to provide a direct link to, but which doesn't have its own heading.
+
+(… more content…)
+
+[A link to that custom anchor](#my-custom-anchor-point)
